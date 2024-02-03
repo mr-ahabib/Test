@@ -1,4 +1,2 @@
-def division(dc)
-{
-    
-}
+def division(dc):
+    print(dc)

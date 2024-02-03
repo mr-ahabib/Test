@@ -1,4 +1,3 @@
-def division(dc)
-{
-    print("Habib")
-}
+def division(dc):
+    print(dc)
+
